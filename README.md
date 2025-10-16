@@ -1,4 +1,4 @@
-# TP3: Réseaux de Neurones Convolutifs
+# Réseaux de Neurones Convolutifs
 
 Ce projet met en œuvre les concepts fondamentaux des Réseaux de Neurones Convolutifs (CNN) pour des tâches de vision par ordinateur, en utilisant TensorFlow et Keras.
 
